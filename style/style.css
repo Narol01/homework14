@@ -33,3 +33,22 @@
     margin-bottom: 5px;
 
 }
+
+#listName{
+    max-width: 700px;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 40px auto;
+    display: flex;
+    gap: 20px;
+    align-items:center;
+    flex-direction: column;
+}
+
+.item{
+    width: 600px;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 5px;
+}
